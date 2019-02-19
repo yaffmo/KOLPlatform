@@ -60,7 +60,9 @@ namespace KOLConsole.Controllers
 
             // return null if user not found
             if (user == null)
-                return null;
+            {
+                return Unauthorized();
+            }
 
             // authentication successful so generate jwt token
             var claims = new []
