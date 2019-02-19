@@ -1,0 +1,14 @@
+C:\Users\mo_ya\Desktop\project\KOLConsole\bin\Debug\netcoreapp2.2\KOLConsole.deps.json
+C:\Users\mo_ya\Desktop\project\KOLConsole\bin\Debug\netcoreapp2.2\KOLConsole.runtimeconfig.json
+C:\Users\mo_ya\Desktop\project\KOLConsole\bin\Debug\netcoreapp2.2\KOLConsole.runtimeconfig.dev.json
+C:\Users\mo_ya\Desktop\project\KOLConsole\bin\Debug\netcoreapp2.2\KOLConsole.dll
+C:\Users\mo_ya\Desktop\project\KOLConsole\bin\Debug\netcoreapp2.2\KOLConsole.pdb
+C:\Users\mo_ya\Desktop\project\KOLConsole\obj\Debug\netcoreapp2.2\KOLConsole.csprojAssemblyReference.cache
+C:\Users\mo_ya\Desktop\project\KOLConsole\obj\Debug\netcoreapp2.2\KOLConsole.csproj.CoreCompileInputs.cache
+C:\Users\mo_ya\Desktop\project\KOLConsole\obj\Debug\netcoreapp2.2\KOLConsole.RazorAssemblyInfo.cache
+C:\Users\mo_ya\Desktop\project\KOLConsole\obj\Debug\netcoreapp2.2\KOLConsole.RazorAssemblyInfo.cs
+C:\Users\mo_ya\Desktop\project\KOLConsole\obj\Debug\netcoreapp2.2\KOLConsole.AssemblyInfoInputs.cache
+C:\Users\mo_ya\Desktop\project\KOLConsole\obj\Debug\netcoreapp2.2\KOLConsole.AssemblyInfo.cs
+C:\Users\mo_ya\Desktop\project\KOLConsole\obj\Debug\netcoreapp2.2\KOLConsole.RazorTargetAssemblyInfo.cache
+C:\Users\mo_ya\Desktop\project\KOLConsole\obj\Debug\netcoreapp2.2\KOLConsole.dll
+C:\Users\mo_ya\Desktop\project\KOLConsole\obj\Debug\netcoreapp2.2\KOLConsole.pdb
